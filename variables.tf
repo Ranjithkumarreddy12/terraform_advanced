@@ -1,0 +1,16 @@
+variable aws_access_key {}
+variable aws_secret_key {}
+variable aws_region {}
+variable vpc_cidr {}
+variable vpc_name {}
+variable igw_name {}
+variable public_cidrs {}
+variable private_cidrs {}
+variable aws_security_group {}
+variable Main_table {}
+variable private_table {}
+variable aws_ami {}
+variable Key_name {}
+variable env {}
+variable azs {}
+variable instance_name {}
